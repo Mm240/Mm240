@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi I am Maulik Mittal
 
-<!--
-**Mm240/Mm240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern, efficient, and scalable solution for **[your project’s purpose]**.  
+Built with ❤️ using the latest tech stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Features
+- ⚡ Fast and optimized performance
+- 🔒 Secure and reliable
+- 📡 REST API / GraphQL (if applicable)
+- 📊 Real-time updates
+- 🎨 Clean UI/UX
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React / Next.js / Vue / Angular  
+- **Backend:** Node.js / Express / Django / Spring Boot  
+- **Database:** MongoDB / PostgreSQL / MySQL / Supabase  
+- **DevOps:** Docker / Kubernetes / GitHub Actions  
+
+---
+
+
+
